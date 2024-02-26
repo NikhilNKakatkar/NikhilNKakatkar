@@ -1,6 +1,6 @@
 ![Profileviews](https://komarev.com/ghpvc/?username=your-github-NikhilNKakatkar&style=plastic)
 # 💫 About Me: 
- 🔭 I’m currently Learning<br>💬 Contact me at: 01fe21bec145@kletech.ac.in<br>⚡ Fun fact about me: Besides coding, I also love circuit Debugging. 
+ 🔭 I’m currently Learning<br>💬 Contact me at: kakatkarnikhil16@gmail.com<br>⚡ Fun fact about me: Besides coding, I also love circuit Debugging. 
   
   
  ## 🌐 Socials: 
