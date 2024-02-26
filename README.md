@@ -4,7 +4,7 @@
   
   
  ## 🌐 Socials: 
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=plastic&logo=Instagram&logoColor=white)]() [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-puri-268251245/)  
+ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=plastic&logo=Instagram&logoColor=white)]() [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-kakatkar-756303261/)  
   
  # 💻 Tech Stack:
 ![MATLAB](https://img.shields.io/badge/MATLAB-R2022b-orange.svg?style=plastic&logo=matlab&logocolor=orange)
